@@ -1,10 +1,10 @@
 Source: zoxide
 Section: utils
 Priority: optional
-Maintainer: Dario Griffo <dariogriffo@gmail.com>
+Maintainer: Fengnan Gao <gao.fengnan@gmail.com>
 Homepage: https://github.com/ajeetdsouza/zoxide
 Package: zoxide
-Version: zoxide_VERSION-BUILD_VERSION~griffo
+Version: zoxide_VERSION-BUILD_VERSION~gaofn
 Architecture: SUPPORTED_ARCHITECTURES
 Depends: 
 Description: a smarter cd command, inspired by z and autojump.

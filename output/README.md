@@ -24,6 +24,8 @@
 
 # zoxide
 
+> Fork of [dariogriffo/zoxide-debian](https://github.com/dariogriffo/zoxide-debian) (MIT); the original packaging is by Dario Griffo. Served at [deb.gaofn.xyz](https://deb.gaofn.xyz) for Debian 12 (bookworm) and 13 (trixie).
+
 [![crates.io][crates.io-badge]][crates.io]
 [![Downloads][downloads-badge]][releases]
 [![Built with Nix][builtwithnix-badge]][builtwithnix]
